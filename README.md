@@ -1,4 +1,4 @@
 # hello-world
 hello-world
 
-Hi!I'm student to start programming,thank you.
+Hi! I'm student to start programming,thank you.
